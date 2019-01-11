@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<body
+style="background-color:pink;">
+<link rel="icon" Type= "image/doja.jpg"href="image/doja.jpg">
+<title> Dee-Success </title>
+</head>
+<body>
+    <div>
+    <img src="folder.html/doja.jpg"alt="photo"width="640"height="480"/>	</div>
+<h2>
+	<div>
+<a href="Abart.html"> About us </a>
+<h2> Dee-Success Assessment booklet is designed to assist teachers and pupils in academic environment and help to evaluate the pupils' abilities and skills </h>
+<h2> Contact Number: 08174310304 </h2>
+<a href= Continuous Assessment.html" 
+<Footer>
+<a href="https://www.facebook.com/Akande Oladoja target="blank">
+<img src=="image/facebook.png"title="facebook"=height="75"width="75"/>
+<p> &copy2018 Doja's Book Arcade. Developed by Doja </p>
+<h2> price</h2>
+    <div>
+    <!--menutable-->
+    <table>
+    <tr>
+    <th>Classes</th>
+    <th>Price</th>
+    </tr>
+    <tr>
+    <td>Basic 1</td>
+    <td>#500</td>
+    </tr>
+    <tr>
+    <td>Basic 2</td>
+    <td>#550</td>
+    </td>
+    <tr>
+    <td>Basic 3</td>
+    <td>#600</td>
+    </tr>
+    <td>Basic 4</td>
+    <td>#650</td>
+    </tr>
+    <td>Basic 5</td>
+    <td>#700</td>
+    </tr>
+    </table>
+    </div> 
+    <h2>Get in Touch</h2>
+    <div>
+    <form>
+    <div>
+    <labelfor="name">Name:</label>
+    <input type="text"id="name"name="user_name">
+    <div>
+    <labelfor="mail">Email:</label>
+    <input type="Email"id="mail"name="user_name">
+    <div> 
+    <label for="msg">message:
+    </label>
+    <textarea id="msg"name="users_message"></textarea>
+    </div>
+    <div class="button">
+    <button type="submit">Submit
+    </button>
+    </div>
+    </form>
+    </div>
+    
+   
+    <div>
+
+</footer>
+</body>
+</html>
